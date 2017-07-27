@@ -1,0 +1,1 @@
+Code samples for the book _Java Succinctly Part 2_ by Chris Rose, available at [Syncfusion.com](https://www.syncfusion.com/resources/techportal/ebooks).
